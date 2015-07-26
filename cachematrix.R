@@ -1,7 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## hello all you happy people
+
 ## Write a short comment describing this function
+## this function will cacche a matrix
+
 
 makeCacheMatrix <- function(x = matrix()) {
 
